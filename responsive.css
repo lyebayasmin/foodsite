@@ -1,0 +1,26 @@
+.container{
+   position: relative;
+ }
+ .container2{
+    position: absolute;
+    right: 19%;
+ }
+
+ .container4{
+    position: relative;
+ }
+ .container4 h1{
+    position: absolute;
+    right: 40%;
+ }
+ .images{
+    position: absolute;
+    right: 23%;
+ }
+ .container5{
+    position: relative;
+ }
+ .form{
+    position: absolute;
+    right: 20%;
+ }

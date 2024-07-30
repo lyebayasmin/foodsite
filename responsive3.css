@@ -1,0 +1,51 @@
+  .container{
+    position: relative;
+  }
+  .container2{
+    position: absolute;
+    top: 20%;
+    right: 10%;
+    text-align: center;
+    color: white;
+}
+.container2 button{
+    position: absolute;
+    right: 30%;
+}
+
+.container4{
+    position: relative;
+ }
+ .container4 h1{
+    position: absolute;
+    right: 27%;
+ }
+ .images{
+    position: absolute;
+    right: 7%;
+ }
+ .images img{
+    width: 30px;
+    height: 30px;
+ }
+ .container5{
+    position: relative;
+ }
+ .container5 h1{
+    position: absolute;
+    right: 30%;
+ }
+ .form{
+    position: absolute;
+    right: 18%;
+ }
+ .in{
+    width: 200px;
+    margin: 5px;
+}
+.navbar li a{
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}

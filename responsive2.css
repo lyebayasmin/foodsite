@@ -1,0 +1,27 @@
+.container{
+    position: relative;
+  }
+  .container2{
+     position: absolute;
+     right: 10%;
+  }
+
+  .container4{
+    position: relative;
+ }
+ .images{
+    position: absolute;
+    right: 10%;
+ }
+
+ .container5{
+    position: relative;
+ }
+ .form{
+    position: absolute;
+    right: 15%;
+ }
+ .in{
+    width: 300px;
+    margin: 7px;
+}
